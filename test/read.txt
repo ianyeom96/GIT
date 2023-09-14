@@ -1,0 +1,12 @@
+git init
+git add .
+git add "test/os.py"
+git status
+git git commit -m "first commit"
+git remote add origin https://github.com/ianyeom96/GIT.git           
+git remote -v
+git push origin master
+-----------------------------------------------------update
+git add .
+git git commit -m "second commit"
+git push origin master
