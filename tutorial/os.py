@@ -7,3 +7,5 @@ print("Current directory:", current_directory)
 os.chdir("C:/Users/ehdwn/OneDrive/바탕 화면/python/test")
 # os.mkdir("test") #creating a folder
 
+#changed a name of the directory from test to tutorial
+# os.rename("test", "tutorial")
