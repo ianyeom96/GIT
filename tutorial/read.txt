@@ -1,6 +1,7 @@
 git init
 git add .
 git add "test/os.py"
+git reset
 git status
 git git commit -m "first commit"
 git remote add origin https://github.com/ianyeom96/GIT.git           
